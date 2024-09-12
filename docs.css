@@ -1,0 +1,9 @@
+.contenedor_1 button {
+    background-color: #ffa12a;
+    color:  #000000;
+    border: 2px double blue;
+}
+
+.contenedor_2 > li {
+    color: #00ff6c;
+}
